@@ -4,3 +4,4 @@
 .env.*.local
 **/ .env
 .DS_Store
+**/ .DS_Store
